@@ -8,7 +8,7 @@ In the RadiMax semi-field root-screening facility 95/120 different winter wheat 
 Results\
 Both analytical and ML models demonstrated clear correlations between pRLD distribution and resource uptake. Further, both models demonstrated that deep roots at approx. 1.5 to 1.7 m depth were most important for explaining the plant content of 15N and 13C isotopes. The correlations were higher in 2018 than in the 2019. \
 Conclusions\
-The results demonstrated that in the semi-field non-invasive root phenotyping setup, analytical and ML based analysis provided complementary insight into the importance of deep rooting for water and nitrogen uptake.
+The results demonstrated that in the semi-field non-invasive root phenotyping setup, analytical and ML based analysis provided complementary insight into the importance of deep rooting for water and nitrogen uptake.\
 Keywords\
 Machine learning, deep rooting, deep resource uptake, random forest, 13C, 15N
 
