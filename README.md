@@ -1,6 +1,15 @@
 # CropML
-# Non-invasive Phenotyping for Water and Nitrogen Uptake by Deep Roots Explored using Machine Learning
-Abstract 
+# Non-invasive Phenotyping for Water and Nitrogen Uptake by Deep Roots Explored using Machine Learning\
+Authors\
+Satyasaran Changdar1,2*, Olga Popovic2, Tomke Susanne Wacker2, Bo Markussen3, Erik Bjørnager Dam1, Kristian Thorup-Kristensen2\
+Affiliations\
+1 Department of Computer Science, Faculty of Science, University of Copenhagen, Denmark\
+2 Department of Plant and Environmental Sciences, Faculty of Science, University of Copenhagen, Denmark\
+3 Department of Mathematical Sciences, Faculty of Science, University of Copenhagen, Copenhagen, Denmark\
+
+
+
+Abstract \
 Background and aims\
 Root distribution over the soil profile is important for crop resource uptake. Using machine learning (ML), this study investigated whether measured planer root length density (pRLD) at different soil depths were related to uptake of isotope tracer (15N) and drought stress indicator (13C) in wheat, to reveal root function.\
 Methods\
