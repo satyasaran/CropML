@@ -5,7 +5,7 @@ Satyasaran Changdar1,2*, Olga Popovic2, Tomke Susanne Wacker2, Bo Markussen3, Er
 Affiliations\
 1 Department of Computer Science, Faculty of Science, University of Copenhagen, Denmark\
 2 Department of Plant and Environmental Sciences, Faculty of Science, University of Copenhagen, Denmark\
-3 Department of Mathematical Sciences, Faculty of Science, University of Copenhagen, Copenhagen, Denmark\
+3 Department of Mathematical Sciences, Faculty of Science, University of Copenhagen, Copenhagen, Denmark
 
 
 
