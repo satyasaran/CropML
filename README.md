@@ -1,6 +1,11 @@
 # CropML
 
 # Non-invasive Phenotyping for Water and Nitrogen Uptake by Deep Roots Explored using Machine Learning
+# Authors
+Satyasaran Changdar, Olga Popovic, Tomke Susanne Wacker, Bo Markussen, Erik Bjørnager Dam, Kristian Thorup-Kristensen
+Affiliations
+University of Copenhagen, Denmark
+
 # https://doi.org/10.21203/rs.3.rs-2608651/v1
 
 # Abstract 
