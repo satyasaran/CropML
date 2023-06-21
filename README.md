@@ -19,3 +19,5 @@ Both parametrized and ML models demonstrated clear correlations between Sqrt_pRL
 The results demonstrated that in the semi-field non-invasive root phenotyping setup, parametrized models and ML-based analysis provided complementary insight into the importance of deep rooting for water and nitrogen uptake. 
 Keywords
 Machine learning, deep rooting, deep resource uptake, random forest, 13C, 15N
+
+# To run the code: Please use RadimaxPaper_ML_June21.ipynb
