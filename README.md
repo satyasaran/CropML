@@ -28,11 +28,13 @@ To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June
 
 ## Usage
 
-Open the RadimaxPaper_ML_June21.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the non-invasive phenotyping analysis. Feel free to modify the code, experiment with different machine learning models or techniques, and explore the results.
+Open the RadimaxPaper_ML_June21.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the non-invasive phenotyping analysis. 
+Feel free to modify the code, experiment with different machine learning models or techniques, and explore the results. Other .py files are our custome library files
+
 
 Please refer to the notebook or relevant sections of the code for further details on the dataset's structure and preprocessing steps.
 ## Data
-The project's data (2018 and 2019, Raw Root lengths isotopes(15N and 13C) and) is stored in the Data folder, which contains the necessary files for the analysis.
+The project's data (2018 and 2019, Raw data) is stored in the Data folder, which contains the necessary files for the analysis.
 
 
 ## Contributing
@@ -49,5 +51,5 @@ python -m venv env
 source env/bin/activate (for Linux/Mac)
 env\Scripts\activate (for Windows)
 pip install -r requirements.txt
-Once the dependencies are installed, you can proceed to the Usage section above to run the code. ```
+Once the dependencies are installed, you can proceed to the usage section above to run the code. ```
 
