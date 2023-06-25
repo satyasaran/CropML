@@ -7,17 +7,48 @@ Affiliations
 University of Copenhagen, Denmark
 
 # https://doi.org/10.21203/rs.3.rs-2608651/v1
+# CropML
 
-# Abstract 
-# Background and aims
-Root distribution over the soil profile is important for crop resource uptake. Using machine learning (ML), this study investigated whether measured square root of planar root length density (Sqrt_pRLD) at different soil depths were related to uptake of isotope tracer (15N) and drought stress indicator (13C) in wheat, to reveal root function.
-# Methods
-In the RadiMax semi-field root-screening facility 95 winter wheat genotypes were phenotyped for root growth in 2018 and 120 genotypes in 2019. Using the minirhizotron technique, root images were acquired across a depth range from 80 to 250 cm in May, June, and July and RL was extracted using a convolutional neural network. We developed ML models to explore whether the Sqrt_pRLD estimates at different soil depths were predictive of the uptake of deep soil nitrogen - using deep placement of 15N tracer as well as drought resilience potential using natural abundance of 13C isotope. We analyzed the correlations to tracer levels to both a parametrized root depth estimation and an ML approach. We further analyzed the genotypic effects on root function using mediation analysis.
-# Results
-Both parametrized and ML models demonstrated clear correlations between Sqrt_pRLD distribution and resource uptake. Further, both models demonstrated that deep roots at approx. 150 to 170 cm depth were most important for explaining the plant content of 15N and 13C isotopes. The correlations were higher in 2018 than in 2019. 
-# Conclusions
-The results demonstrated that in the semi-field non-invasive root phenotyping setup, parametrized models and ML-based analysis provided complementary insight into the importance of deep rooting for water and nitrogen uptake. 
-Keywords
-Machine learning, deep rooting, deep resource uptake, random forest, 13C, 15N
+CropML is a machine learning project focused on non-invasive phenotyping of crop root systems using machine learning techniques. The goal of this project is to explore the relationship between root distribution and resource uptake in crops using machine learning models.
 
-# To run the code: Please use RadimaxPaper_ML_June21.ipynb
+## Table of Contents
+
+- [Abstract](#abstract)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data](#data)
+- [Contributing](#contributing)
+
+
+## Abstract
+
+This project investigates the relationship between root distribution and resource uptake in crops using machine learning techniques. The study utilizes the RadiMax semi-field root-screening facility to phenotype winter wheat genotypes for root growth. Square root of planar root length density (Sqrt_pRLD) measurements are collected at different soil depths, and their correlation with deep soil nitrogen uptake and drought resilience potential is explored using machine learning models. The results demonstrate the importance of deep rooting for water and nitrogen uptake in crops.
+
+To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June21.ipynb` Jupyter Notebook file.
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+```shell
+git clone https://github.com/satyasaran/CropML.git
+cd CropML
+python -m venv env
+source env/bin/activate (for Linux/Mac)
+env\Scripts\activate (for Windows)
+pip install -r requirements.txt
+Once the dependencies are installed, you can proceed to the next section to run the code.
+
+## Usage
+
+Open the RadimaxPaper_ML_June21.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the non-invasive phenotyping analysis. Feel free to modify the code, experiment with different machine learning models or techniques, and explore the results.
+
+Please refer to the notebook or relevant sections of the code for further details on the dataset's structure and preprocessing steps.
+## Data
+The project's data is stored in the Data folder, which contains the necessary files for the analysis.
+
+## Contributing
+Contributions to this project are welcome! If you find any issues, have suggestions, or would like to add new features, feel free to open an issue or submit a pull request.
+
+
+
