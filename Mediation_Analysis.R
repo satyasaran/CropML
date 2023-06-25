@@ -1,5 +1,6 @@
 # LMG decomposition of R2 in the mediation setup
 # Bo Markussen
+# Used by Satyasaran Changdar for Mediation analysis
 # August 26, 2021
 # load packages ----
 
