@@ -32,7 +32,8 @@ Open the RadimaxPaper_ML_June21.ipynb notebook in Jupyter Notebook or any compat
 
 Please refer to the notebook or relevant sections of the code for further details on the dataset's structure and preprocessing steps.
 ## Data
-The project's data is stored in the Data folder, which contains the necessary files for the analysis.
+The project's data (2018 and 2019, Raw Root lengths isotopes(15N and 13C) and) is stored in the Data folder, which contains the necessary files for the analysis.
+
 
 ## Contributing
 Contributions to this project are welcome! If you find any issues, have suggestions, or would like to add new features, feel free to open an issue or submit a pull request.
@@ -48,5 +49,5 @@ python -m venv env
 source env/bin/activate (for Linux/Mac)
 env\Scripts\activate (for Windows)
 pip install -r requirements.txt
-Once the dependencies are installed, you can proceed to the next section to run the code. ```
+Once the dependencies are installed, you can proceed to the Usage section above to run the code. ```
 
