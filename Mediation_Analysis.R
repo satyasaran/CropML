@@ -81,7 +81,7 @@ LMG <- function(df,mediators,verbose=TRUE) {
 
 # Prepare data ----
 
-d <- read.csv('/Users/trl102/Downloads/Spatially_Corrected_Mediation_df_2019.csv', header = TRUE, check.names=FALSE,fileEncoding =  "latin1", as.is=TRUE, sep=",") 
+d <- read.csv('./Data/Spatially_Corrected_Mediation_df_2018.csv', header = TRUE, check.names=FALSE,fileEncoding =  "latin1", as.is=TRUE, sep=",") 
 
 
 d=d[,nzchar(colnames(d))]
@@ -174,7 +174,7 @@ round(pct_R2_2018,1)
 
 # partial R2 for 2019 ----
 
-d <- read.csv('/Users/trl102/Downloads/Spatially_Corrected_New_Mediation_df_2019.csv', header = TRUE, check.names=FALSE,fileEncoding =  "latin1", as.is=TRUE, sep=",") 
+d <- read.csv('./Data/Spatially_Corrected_Mediation_df_2019.csv', header = TRUE, check.names=FALSE,fileEncoding =  "latin1", as.is=TRUE, sep=",") 
 
 d=d[,nzchar(colnames(d))]
 d$ID<-as.factor(d$ID)
