@@ -30,7 +30,7 @@ To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June
 
 To set up the project locally, follow these steps:
 
-shell
+'''shell
 git clone https://github.com/satyasaran/CropML.git
 cd CropML
 python -m venv env
