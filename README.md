@@ -30,14 +30,15 @@ To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June
 
 To set up the project locally, follow these steps:
 
-'''shell
+```shell
 git clone https://github.com/satyasaran/CropML.git
 cd CropML
 python -m venv env
 source env/bin/activate (for Linux/Mac)
 env\Scripts\activate (for Windows)
 pip install -r requirements.txt
-Once the dependencies are installed, you can proceed to the next section to run the code. 
+Once the dependencies are installed, you can proceed to the next section to run the code. ```
+
 
 ## Usage
 
