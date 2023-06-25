@@ -24,7 +24,7 @@ CropML is a machine learning project focused on non-invasive phenotyping of crop
 
 This project investigates the relationship between root distribution and resource uptake in crops using machine learning techniques. The study utilizes the RadiMax semi-field root-screening facility to phenotype winter wheat genotypes for root growth. Square root of planar root length density (Sqrt_pRLD) measurements are collected at different soil depths, and their correlation with deep soil nitrogen uptake and drought resilience potential is explored using machine learning models. The results demonstrate the importance of deep rooting for water and nitrogen uptake in crops.
 
-To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June21.ipynb` Jupyter Notebook file.
+To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June25.ipynb` Jupyter Notebook file.
 
 ## Usage
 
