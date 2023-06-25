@@ -81,7 +81,7 @@ LMG <- function(df,mediators,verbose=TRUE) {
 
 # Prepare data ----
 
-d <- read.csv('/Users/trl102/Downloads/Spatially_Corrected_New_Mediation_df_2019.csv', header = TRUE, check.names=FALSE,fileEncoding =  "latin1", as.is=TRUE, sep=",") 
+d <- read.csv('/Users/trl102/Downloads/Spatially_Corrected_Mediation_df_2019.csv', header = TRUE, check.names=FALSE,fileEncoding =  "latin1", as.is=TRUE, sep=",") 
 
 
 d=d[,nzchar(colnames(d))]
