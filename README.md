@@ -28,7 +28,7 @@ To run the code and reproduce the analysis, please use the `RadimaxPaper_ML_June
 
 ## Usage
 
-Open the RadimaxPaper_ML_June21.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the non-invasive phenotyping analysis. 
+Open the RadimaxPaper_ML_June25.ipynb notebook in Jupyter Notebook or any compatible notebook application. Run the notebook cells in sequential order to execute the code and reproduce the non-invasive phenotyping analysis. 
 Feel free to modify the code, experiment with different machine learning models or techniques, and explore the results. Other .py files are our custome library files
 
 
